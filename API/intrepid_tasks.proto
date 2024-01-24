@@ -1,7 +1,7 @@
 syntax = "proto2";
 
 // Here is the specification of the intrepid geophysics
-// batch processing langauge for each  core tool
+// batch processing language for each  core tool
 // using GOOGLE/Protobuf schema
 //
 // All message objects are preceded by a _INT for now to clearly
